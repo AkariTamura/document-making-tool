@@ -18,7 +18,9 @@
 - スタイル: CSS
 
 ## 画面スクリーンショット
+<img width="1904" height="958" alt="image" src="https://github.com/user-attachments/assets/9b495a1a-7eeb-408a-befd-6227feeab840" />
 
-
+動作は下記サイトで確認できます。
+https://dummy-site35.o0o0.jp/htmlmaker/
 
 本プロジェクトは転職活動のポートフォリオ用に作成したものです。ご質問等はお気軽にご連絡ください。
